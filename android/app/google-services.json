@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571303346728",
+    "project_id": "push-notification-fcfdd",
+    "storage_bucket": "push-notification-fcfdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571303346728:android:ac51f8d82cb33997296b1d",
+        "android_client_info": {
+          "package_name": "com.example.push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoicB3KUiPFYHfD6ShPom8HDuU6N7cWzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
